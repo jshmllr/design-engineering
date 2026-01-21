@@ -2,6 +2,14 @@
 
 Welcome to **Design Engineering**, a portfolio-style GitHub repository demonstrating the hybrid skills of a design engineer. This repo blends UI/UX design principles with front-end engineering expertise, focusing on tasks like debugging performance bottlenecks in design systems, prototyping interactive components, and exploring emerging CSS specifications and Web APIs from MDN.
 
+## 30-Day Design Engineering Learning Plan
+Use this repo as a self-guided, 30-day learning plan to understand what design engineering is, how design engineers collaborate within teams, and how to build core deliverables (prototypes, UI tooling, and system components). Start with the docs below:
+
+- **Start here**: `docs/README.md`
+- **Progress tracker**: `docs/plan.md`
+- **Weekly guides**: `docs/weeks/`
+- **Sources**: `docs/sources.md`
+
 Inspired by roles at companies like Vercel and Ramp, this showcase includes self-initiated projects that fix real-world issues (e.g., browser quirks) or create new opportunities (e.g., leveraging modern specs for innovative UIs). All activities draw from MDN documentation on CSS features like container queries, cascade layers, and Web APIs such as Intersection Observer, ensuring standards-compliant implementations.
 
 The repo features code examples, interactive demos (hostable via GitHub Pages or Vercel), detailed explanations, and blog-style markdown posts. It's designed as a living portfolio to highlight proactive problem-solving and innovation—core to a design engineer's role.
